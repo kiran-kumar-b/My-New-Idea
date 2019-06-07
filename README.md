@@ -1,3 +1,3 @@
 # My-New-Idea
 My New Idea Repository
-Maintaining new Ideas
+This is to Maintain new Ideas
